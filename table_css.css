@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+table,th, td{
+    box-shadow: 3px 3px 3px rgb(0, 174, 255);
+    border: 3px solid rgb(127, 255, 255);
+}
+table{border-collapse: collapse;
+    width: 60%; margin: 20px;
+}
+body{background-color: 
+}
+tr:nth-child(odd){background-color: lightblue
+}
+caption{font-size: 40px;
+}
